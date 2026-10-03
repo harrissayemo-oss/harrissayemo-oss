@@ -25,4 +25,4 @@ Passionate data analyst with a background in pure and applied mathematics. I spe
 
 ### 📬 Connect With Me
 * **GitHub:** [@harrissayemo-oss](https://github.com/harrissayemo-oss)
-[![Kaggle](https://img.shields.io/badge/Kaggle-008FD6?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sayemoharris2020)
+* **Kaggle:** [![Kaggle](https://img.shields.io/badge/Kaggle-008FD6?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sayemoharris2020)
