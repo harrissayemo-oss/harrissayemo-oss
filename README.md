@@ -4,12 +4,11 @@
 Passionate data analyst with a background in pure and applied mathematics. I specialize in translating complex transactional and behavioral data into actionable business intelligence, interactive visual dashboards, and strategic executive recommendations.
 
 ---
-
 ### 🛠️ Technical Stack & Tooling
-* **Programming & Analytics:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (PostgreSQL, MySQL, Google Cloud BigQuery)
-* **Business Intelligence & Dashboards:** Power BI (DAX, Power Query), Tableau Public, Advanced Microsoft Excel (VLOOKUP, PivotTables, VBA)
-* **Statistical Methods:** Exploratory Data Analysis (EDA), Correlation & Trend Analysis, Hypothesis Testing, Performance Metrics
-
+* **Statistical Programming & Scripting:** Python (Pandas, NumPy, Matplotlib, Seaborn), R (tidyverse, ggplot2, dplyr)
+* **Database Management & Querying:** SQL, Google Cloud BigQuery, PostgreSQL (pgAdmin 4), MySQL Workbench
+* **Business Intelligence & Dashboards:** Microsoft Power BI (DAX, Power Query), Tableau Public, Advanced Microsoft Excel (PivotTables, VLOOKUP, Macros)
+* **Data Lifecycle & Frameworks:** Exploratory Data Analysis (EDA), Data Cleaning & Validation, Relational Database Modeling, Statistical Trend Analysis
 ---
 
 ### 🚀 Featured Case Studies & Projects
