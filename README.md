@@ -12,7 +12,9 @@ Passionate data analyst with a background in pure and applied mathematics. I spe
 ---
 
 ### 🚀 Featured Case Studies & Projects
-
+* ⚖️ [Conflict-Related Sexual Violence (CRSV) & Reparation Deficits in Nigeria](https://github.com/harrissayemo-oss/crsv-nigeria-reparations-analysis)
+    * **Stack:** Python (Pandas, Jupyter), Power BI (DAX), Microsoft Word
+    * Quantified 33 cumulative actor-violation years across state and non-state actors using SVAC conflict data (1995–2023) to model institutional liability, child vulnerability profiles, and administrative reparations deficits.
 * 🚴 **[Cyclistic Bike-Share Behavioral Analysis](https://github.com/harrissayemo-oss/cyclistic-bike-share-analysis)**
   * *Stack:* Python (Pandas), Power BI, Microsoft Word
   * Processed over 5.7 million ride records to evaluate trip duration divergence and commuter vs. leisure cyclical patterns, producing targeted conversion strategies for casual riders.
